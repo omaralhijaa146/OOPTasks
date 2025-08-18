@@ -4,7 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        var student = new Student
+        {
+            FirstName = "John",
+            LastName = "Doe",
+            AgeName = 20
+        };
+        Console.WriteLine(student.FullName);
     }
 }
 
