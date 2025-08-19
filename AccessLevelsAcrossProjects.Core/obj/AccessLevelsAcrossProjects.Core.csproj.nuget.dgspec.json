@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\OOPTasks\\OOPTasks\\OOPTasks.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\OOPTasks\\AccessLevelsAcrossProjects.Core\\AccessLevelsAcrossProjects.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\OOPTasks\\OOPTasks\\OOPTasks.csproj": {
+    "C:\\Users\\User\\RiderProjects\\OOPTasks\\AccessLevelsAcrossProjects.Core\\AccessLevelsAcrossProjects.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\OOPTasks\\OOPTasks\\OOPTasks.csproj",
-        "projectName": "OOPTasks",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\OOPTasks\\OOPTasks\\OOPTasks.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\OOPTasks\\AccessLevelsAcrossProjects.Core\\AccessLevelsAcrossProjects.Core.csproj",
+        "projectName": "AccessLevelsAcrossProjects.Core",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\OOPTasks\\AccessLevelsAcrossProjects.Core\\AccessLevelsAcrossProjects.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\OOPTasks\\OOPTasks\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\OOPTasks\\AccessLevelsAcrossProjects.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

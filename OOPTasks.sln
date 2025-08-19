@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesAutoVsCiomputed", "PropertiesAutoVsCiomputed\PropertiesAutoVsCiomputed.csproj", "{9F6F0FAC-F810-481E-9E5F-4719A3A125B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessLevelsAcrossProjects", "AccessLevelsAcrossProjects\AccessLevelsAcrossProjects.csproj", "{894401AD-52C7-4574-9217-547066FA5AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessLevelsAcrossProjects.Core", "AccessLevelsAcrossProjects.Core\AccessLevelsAcrossProjects.Core.csproj", "{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{9F6F0FAC-F810-481E-9E5F-4719A3A125B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6F0FAC-F810-481E-9E5F-4719A3A125B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6F0FAC-F810-481E-9E5F-4719A3A125B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894401AD-52C7-4574-9217-547066FA5AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894401AD-52C7-4574-9217-547066FA5AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894401AD-52C7-4574-9217-547066FA5AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894401AD-52C7-4574-9217-547066FA5AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
