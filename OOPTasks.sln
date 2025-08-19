@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessLevelsAcrossProjects"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessLevelsAcrossProjects.Core", "AccessLevelsAcrossProjects.Core\AccessLevelsAcrossProjects.Core.csproj", "{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndChaining", "ConstructorsAndChaining\ConstructorsAndChaining.csproj", "{E5396DC6-4826-4924-B735-38C680356A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE0572A-0DCC-4E39-AA00-E7914E70D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5396DC6-4826-4924-B735-38C680356A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5396DC6-4826-4924-B735-38C680356A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5396DC6-4826-4924-B735-38C680356A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5396DC6-4826-4924-B735-38C680356A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

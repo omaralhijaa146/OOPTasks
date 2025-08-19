@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\bin\Debug\net8.0\ConstructorsAndChaining.exe
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\bin\Debug\net8.0\ConstructorsAndChaining.deps.json
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\bin\Debug\net8.0\ConstructorsAndChaining.runtimeconfig.json
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\bin\Debug\net8.0\ConstructorsAndChaining.dll
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\bin\Debug\net8.0\ConstructorsAndChaining.pdb
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.sourcelink.json
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.dll
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\refint\ConstructorsAndChaining.dll
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.pdb
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ConstructorsAndChaining.genruntimeconfig.cache
+C:\Users\User\RiderProjects\OOPTasks\ConstructorsAndChaining\obj\Debug\net8.0\ref\ConstructorsAndChaining.dll
