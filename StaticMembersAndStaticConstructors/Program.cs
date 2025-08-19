@@ -5,10 +5,14 @@ class Program
     static void Main(string[] args)
     {
      // initialize static member 
-     Console.WriteLine(Student.Count);
+     // Console.WriteLine(Student.Count);
 
-     Student.Count = 3;
+     new Student();
+     new Student();
+     new Student();
+     
      Console.WriteLine(Student.Count);
+     Console.WriteLine(Student.Count==3);
     }
 }
 

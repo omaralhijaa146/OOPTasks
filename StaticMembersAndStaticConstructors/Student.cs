@@ -2,7 +2,7 @@
 
 public class Student
 {
-    public static int Count { get; set;}
+    public static int Count { get; private set;}
 
     static Student()
     {
