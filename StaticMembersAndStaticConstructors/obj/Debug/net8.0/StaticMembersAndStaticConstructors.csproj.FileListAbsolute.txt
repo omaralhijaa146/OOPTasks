@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\bin\Debug\net8.0\StaticMembersAndStaticConstructors.exe
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\bin\Debug\net8.0\StaticMembersAndStaticConstructors.deps.json
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\bin\Debug\net8.0\StaticMembersAndStaticConstructors.runtimeconfig.json
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\bin\Debug\net8.0\StaticMembersAndStaticConstructors.dll
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\bin\Debug\net8.0\StaticMembersAndStaticConstructors.pdb
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.sourcelink.json
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.dll
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\refint\StaticMembersAndStaticConstructors.dll
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.pdb
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\StaticMembersAndStaticConstructors.genruntimeconfig.cache
+C:\Users\User\RiderProjects\OOPTasks\StaticMembersAndStaticConstructors\obj\Debug\net8.0\ref\StaticMembersAndStaticConstructors.dll
