@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\bin\Debug\net8.0\OverridingObjectMemebers.exe
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\bin\Debug\net8.0\OverridingObjectMemebers.deps.json
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\bin\Debug\net8.0\OverridingObjectMemebers.runtimeconfig.json
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\bin\Debug\net8.0\OverridingObjectMemebers.dll
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\bin\Debug\net8.0\OverridingObjectMemebers.pdb
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.sourcelink.json
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.dll
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\refint\OverridingObjectMemebers.dll
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.pdb
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\OverridingObjectMemebers.genruntimeconfig.cache
+C:\Users\User\RiderProjects\OOPTasks\OverridingObjectMemebers\obj\Debug\net8.0\ref\OverridingObjectMemebers.dll

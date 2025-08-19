@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndChaining", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembersAndStaticConstructors", "StaticMembersAndStaticConstructors\StaticMembersAndStaticConstructors.csproj", "{B86B1EF4-839F-4EC9-BBFC-AA400965DD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingObjectMemebers", "OverridingObjectMemebers\OverridingObjectMemebers.csproj", "{BE485E77-E322-4A8C-8811-F1CD76B42E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B86B1EF4-839F-4EC9-BBFC-AA400965DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86B1EF4-839F-4EC9-BBFC-AA400965DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86B1EF4-839F-4EC9-BBFC-AA400965DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE485E77-E322-4A8C-8811-F1CD76B42E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE485E77-E322-4A8C-8811-F1CD76B42E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE485E77-E322-4A8C-8811-F1CD76B42E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE485E77-E322-4A8C-8811-F1CD76B42E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
