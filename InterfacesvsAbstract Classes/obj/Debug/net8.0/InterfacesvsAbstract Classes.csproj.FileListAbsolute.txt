@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\bin\Debug\net8.0\InterfacesvsAbstract Classes.exe
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\bin\Debug\net8.0\InterfacesvsAbstract Classes.deps.json
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\bin\Debug\net8.0\InterfacesvsAbstract Classes.runtimeconfig.json
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\bin\Debug\net8.0\InterfacesvsAbstract Classes.dll
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\bin\Debug\net8.0\InterfacesvsAbstract Classes.pdb
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.sourcelink.json
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.dll
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\refint\InterfacesvsAbstract Classes.dll
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.pdb
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\InterfacesvsAbstract Classes.genruntimeconfig.cache
+C:\Users\User\RiderProjects\OOPTasks\InterfacesvsAbstract Classes\obj\Debug\net8.0\ref\InterfacesvsAbstract Classes.dll
