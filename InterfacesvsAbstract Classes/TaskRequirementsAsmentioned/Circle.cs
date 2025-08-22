@@ -1,4 +1,4 @@
-namespace InterfacesvsAbstract_Classes;
+namespace InterfacesvsAbstract_Classes.TaskRequirementsAsmentioned;
 
 public class Circle : Shape
 {
@@ -13,7 +13,7 @@ public class Circle : Shape
 
     public override double CalculateArea()
     {
-        Area = Math.Round(Math.PI * Math.Pow(Radius,2),4);
-        return Area;
+        var area = Math.Round(Math.PI * Math.Pow(Radius,2),4);
+        return area;
     }
 }

@@ -1,9 +1,11 @@
-﻿namespace InterfacesvsAbstract_Classes;
+﻿namespace InterfacesvsAbstract_Classes.TaskRequirementsAsmentioned;
 
 public class Rectangle : Shape
 {
+
     public double Width { get; init; }
     public double Height { get; init; }
+    
     public Rectangle(double width, double height)
     {
         ValidateDimensions(width, height);
@@ -13,7 +15,7 @@ public class Rectangle : Shape
     
     public override double CalculateArea()
     {
-        Area = Math.Round(Width * Height,4);
-        return Area;
+        var area = Math.Round(Width * Height,4);
+        return area;
     }
 }

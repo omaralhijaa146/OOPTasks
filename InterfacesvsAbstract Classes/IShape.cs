@@ -1,6 +1,9 @@
-namespace InterfacesvsAbstract_Classes;
+﻿namespace InterfacesvsAbstract_Classes;
 
 public interface IShape
 {
-    double CalculateArea();
+    public double CalculateArea();
+    
+    public double Area { get;}
+    
 }
