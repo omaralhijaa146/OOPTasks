@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverridingObjectMemebers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef78c403f44f307b061f3e394daa12c09e4e6dbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0736f1d53d50d046cb3f1dd8048aaa354aaf90a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverridingObjectMemebers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverridingObjectMemebers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
