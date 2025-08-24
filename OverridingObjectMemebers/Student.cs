@@ -13,10 +13,10 @@ public class Student
 
     public override bool Equals(object? obj)
     {
-        if(obj is null) return false;
-        if(obj is not Student student) return false;
+        var student = (obj as Student);
+        if(student is null) return false;
         if(ReferenceEquals(obj,this)) return true;
-        return obj.GetHashCode() == GetHashCode();
+        return student.GetHashCode() == GetHashCode();
     }
 
     public override string ToString()
