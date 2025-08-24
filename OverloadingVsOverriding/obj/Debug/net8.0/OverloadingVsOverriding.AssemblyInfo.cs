@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverloadingVsOverriding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0736f1d53d50d046cb3f1dd8048aaa354aaf90a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ac3d370fc6d239b51a8f10a7354361ae1affe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverloadingVsOverriding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverloadingVsOverriding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

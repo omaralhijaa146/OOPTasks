@@ -27,11 +27,15 @@ public abstract class Shape:IShape
 
     public static bool operator == (Shape? left, Shape? right)
     {
-        if (ReferenceEquals(left, right)) return true;
-        if (left is null || right is null) return false;
-        if (left.GetType() != right.GetType()) return false;
+        if (left is null)
+        {
+            
+            if(right is null)
+                return true;
+            return false;
+        }
         
-        return Math.Abs(left.Area-right.Area) < ShapeCalculationConstants.Tolerance;
+        return left.Equals(right);
     }
 
     public static bool operator != (Shape? left, Shape? right)
@@ -46,6 +50,12 @@ public abstract class Shape:IShape
 
     public override bool Equals(object? obj)
     {
-        return this == obj as Shape;
+        var shape = (obj as Shape);
+        
+        if (shape is null)
+            return false;
+        
+        if (ReferenceEquals(this, obj)) return true;
+        return Math.Abs(Area-shape.Area) < ShapeCalculationConstants.Tolerance;
     }
 }
